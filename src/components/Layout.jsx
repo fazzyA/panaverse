@@ -34,14 +34,14 @@ const navigation = [
   {
     title: 'Specialized Tracks',
     links: [
-      { title: 'Web 3.0 (Blockchain) and Metaverse Specialization', href: '/docs/writing-plugins' },
-      { title: 'Artificial Intelligence (AI) and Deep Learning Specialization', href: '/docs/neuralink-integration' },
-      { title: 'Cloud-Native Computing Specialization', href: '/docs/temporal-paradoxes' },
-      { title: 'Ambient Computing and IoT Specialization', href: '/docs/testing' },
-      { title: 'Genomics and Bioinformatics Specialization', href: '/docs/compile-time-caching' },
+      { title: 'Web 3.0 (Blockchain) and Metaverse Specialization', href: '/docs/blockchain' },
+      { title: 'Artificial Intelligence (AI) and Deep Learning Specialization', href: '/docs/ai' },
+      { title: 'Cloud-Native Computing Specialization', href: '/docs/computing' },
+      { title: 'Ambient Computing and IoT Specialization', href: '/docs/iot' },
+      { title: 'Genomics and Bioinformatics Specialization', href: '/docs/bioinfo' },
       {
         title: 'Network Programmability and Automation Specialization',
-        href: '/docs/predictive-data-generation',
+        href: '/docs/network',
       },
     ],
   },
@@ -53,14 +53,7 @@ const navigation = [
 
     ],
   },
-  // {
-  //   title: 'Contributing',
-  //   links: [
-  //     { title: 'How to contribute', href: '/docs/how-to-contribute' },
-  //     { title: 'Architecture guide', href: '/docs/architecture-guide' },
-  //     { title: 'Design principles', href: '/docs/design-principles' },
-  //   ],
-  // },
+
 ]
 
 function GitHubIcon(props) {
