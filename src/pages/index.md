@@ -12,7 +12,7 @@ In this course you will learn Web 3.0, Metaverse, Artificial Intelligence (AI), 
 
 {% quick-link title="Core Courses" icon="presets" href="/docs/Quarter1" description="Every participant of the program will start by completing the following three core courses" /%}
 
-{% quick-link title="Specialized Tracks" icon="plugins" href="/docs/Quarter2" description="After completing the first three quarters the participants will select one or more specializations consisting of two courses each:" /%}
+{% quick-link title="Specialized Tracks" icon="plugins" href="/docs/Quarter2" description="After completing the first three quarters the participants will select one or more specializations consisting of two courses each" /%}
 
 {% quick-link title="Outcome for Participants" icon="theming" href="/docs/Quarter3" description="This would provide a tremendous chance for Pakistani professionals and students to improve their financial status while simultaneously providing a much-needed boost to the economy by increasing software exports." /%}
 
