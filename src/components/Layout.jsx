@@ -10,7 +10,7 @@ import { Navigation } from '@/components/Navigation'
 import { Prose } from '@/components/Prose'
 import { Search } from '@/components/Search'
 import { ThemeSelector } from '@/components/ThemeSelector'
-import Panaverse from '@/images/Panaverse-logo.webp'
+import Panaverse from '@/images/panaverse-logo.webp'
 
 const navigation = [
   {
