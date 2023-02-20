@@ -3,30 +3,20 @@ title: Relevant Information Links
 description:
 ---
 
-Important Links
+## Important Links
 
 ---
 
-## Admission Website
+### [Admission Website](https://www.piaic.org/)
 
-https://www.piaic.org/
 
-## Syllabus and Community Website:
+### [Syllabus and Community Website](https://www.panaverse.co/)
 
-https://www.panaverse.co/
 
-## Facebook
+### [Facebook](https://www.facebook.com/groups/panaverse)
 
-https://www.facebook.com/groups/panaverse
+### [YouTube Live Channel](https://www.youtube.com/@panaverse/streams)
 
-## YouTube Live Channel
+### [GitHub Repos](https://github.com/panaverse)
 
-https://www.youtube.com/@panaverse/streams
-
-## GitHub Repos:
-
-https://github.com/panaverse
-
-## Twitter::
-
-https://twitter.com/Panaverse_edu
+### [Twitter](https://twitter.com/Panaverse_edu)
