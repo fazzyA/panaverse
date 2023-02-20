@@ -2,7 +2,8 @@ import { useEffect, useState } from 'react'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
 import { Dialog } from '@headlessui/react'
-
+import Image from 'next/image'
+import Panaverse from '@/images/panaverse-logo.webp'
 import { Logomark } from '@/components/Logo'
 import { Navigation } from '@/components/Navigation'
 
@@ -82,7 +83,15 @@ export function MobileNavigation({ navigation }) {
               <CloseIcon className="h-6 w-6 stroke-slate-500" />
             </button>
             <Link href="/" className="ml-6" aria-label="Home page">
-              <Logomark className="h-9 w-9" />
+              <Image
+              className="h-12 w-auto"
+              src={Panaverse}
+              alt=""
+              width={530}
+              height={530}
+              unoptimized
+              priority
+            />
             </Link>
           </div>
           <Navigation navigation={navigation} className="mt-5 px-1" />
