@@ -8,13 +8,13 @@ In this course you will learn Web 3.0, Metaverse, Artificial Intelligence (AI), 
 
 {% quick-links %}
 
-{% quick-link title=" Program in a Nutshell" icon="installation" href="/" description="For beginners who want to learn software development from the ground up.It is going to be a fifteen-month-long hybrid program that is divided into five quarters of 13 weeks each." /%}
+{% quick-link title=" Program in a Nutshell" icon="installation" href="/docs/nutshell" description="For beginners who want to learn software development from the ground up.It is going to be a fifteen-month-long hybrid program that is divided into five quarters of 13 weeks each." /%}
 
-{% quick-link title="Core Courses" icon="presets" href="/" description="Every participant of the program will start by completing the following three core courses" /%}
+{% quick-link title="Core Courses" icon="presets" href="/docs/Quarter1" description="Every participant of the program will start by completing the following three core courses" /%}
 
-{% quick-link title="Specialized Tracks" icon="plugins" href="/" description="After completing the first three quarters the participants will select one or more specializations consisting of two courses each:" /%}
+{% quick-link title="Specialized Tracks" icon="plugins" href="/docs/Quarter2" description="After completing the first three quarters the participants will select one or more specializations consisting of two courses each:" /%}
 
-{% quick-link title="Outcome for Participants" icon="theming" href="/" description="This would provide a tremendous chance for Pakistani professionals and students to improve their financial status while simultaneously providing a much-needed boost to the economy by increasing software exports." /%}
+{% quick-link title="Outcome for Participants" icon="theming" href="/docs/Quarter3" description="This would provide a tremendous chance for Pakistani professionals and students to improve their financial status while simultaneously providing a much-needed boost to the economy by increasing software exports." /%}
 
 {% /quick-links %}
 
