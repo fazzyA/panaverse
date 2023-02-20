@@ -4,7 +4,6 @@ import { useRouter } from 'next/router'
 import clsx from 'clsx'
 import Image from 'next/image'
 import { Hero } from '@/components/Hero'
-import { Logo, Logomark } from '@/components/Logo'
 import { MobileNavigation } from '@/components/MobileNavigation'
 import { Navigation } from '@/components/Navigation'
 import { Prose } from '@/components/Prose'
@@ -101,8 +100,7 @@ function Header({ navigation }) {
               unoptimized
               priority
             />
-          {/* <Logomark className="h-9 w-9 lg:hidden" /> */}
-          {/* <Logo className="hidden h-9 w-auto fill-slate-700 dark:fill-sky-100 lg:block" /> */}
+
         </Link>
       </div>
       <div className="-my-5 mr-6 sm:mr-8 md:mr-0">

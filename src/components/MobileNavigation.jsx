@@ -4,7 +4,6 @@ import { useRouter } from 'next/router'
 import { Dialog } from '@headlessui/react'
 import Image from 'next/image'
 import Panaverse from '@/images/panaverse-logo.webp'
-import { Logomark } from '@/components/Logo'
 import { Navigation } from '@/components/Navigation'
 
 function MenuIcon(props) {
