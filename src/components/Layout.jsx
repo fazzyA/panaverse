@@ -48,8 +48,8 @@ const navigation = [
   {
     title: 'Outcome',
     links: [
-      { title: 'Outcome for Participants', href: '/docs/cacheadvance-flush' },
-      { title: 'Relevant Information Links', href: '/docs/cacheadvance-predict' },
+      { title: 'Outcome for Participants', href: '/docs/outcomeofprogram' },
+      { title: 'Relevant Information Links', href: '/docs/links' },
 
     ],
   },
