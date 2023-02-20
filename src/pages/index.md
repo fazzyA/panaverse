@@ -8,7 +8,7 @@ In this course you will learn Web 3.0, Metaverse, Artificial Intelligence (AI), 
 
 {% quick-links %}
 
-{% quick-link title="Program of Studies" icon="installation" href="/" description="For beginners who want to learn software development from the ground up.It is going to be a fifteen-month-long hybrid program that is divided into five quarters of 13 weeks each." /%}
+{% quick-link title=" Program in a Nutshell" icon="installation" href="/" description="For beginners who want to learn software development from the ground up.It is going to be a fifteen-month-long hybrid program that is divided into five quarters of 13 weeks each." /%}
 
 {% quick-link title="Core Courses" icon="presets" href="/" description="Every participant of the program will start by completing the following three core courses" /%}
 
@@ -18,5 +18,8 @@ In this course you will learn Web 3.0, Metaverse, Artificial Intelligence (AI), 
 
 {% /quick-links %}
 
-In this brand-new type of curriculum, students will learn how to make money and boost exports in the classroom and will begin doing so within six months of the program's beginning. It resembles a cross between a corporate venture and an educational project.
+The internet is without a doubt the most important technological development in human history. Web3, 3D Metaverse, AI, IoT, Cloud, and Edge technologies expand the internet as we know it by introducing novel features and advancements. Metaverse will make use of all aspects of modern technology, including 3D, VR, AR, AI, blockchain, cloud and edge computing, voice computing, ambient computing, and more.
+
+Citi is the latest Wall Street business to give a positive prognosis for Web 3.0 and the Metaverse, terms used to depict a future internet vision centered on decentralized technologies and virtual worlds. Citi stated in a March 2022 research paper that the metaverse economy might have a total addressable market of up to $13 trillion and five billion people by 2030.
+
 

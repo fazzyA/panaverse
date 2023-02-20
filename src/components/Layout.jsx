@@ -18,17 +18,17 @@ const navigation = [
     links: [
       { title: 'Getting started', href: '/' },
 
-      { title: 'Program in a Nutshell', href: '/docs/installation' },
+      { title: 'Program in a Nutshell', href: '/docs/nutshell' },
     ],
   },
   {
     title: 'Core Courses',
     links: [
-      { title: 'Quarter I', href: '/docs/understanding-caching' },
+      { title: 'Quarter I', href: '/docs/Quarter1' },
 
-      { title: 'Quarter II', href: '/docs/basics-of-time-travel' },
+      { title: 'Quarter II', href: '/docs/Quarter2' },
 
-      { title: 'Quarter III', href: '/docs/the-butterfly-effect' },
+      { title: 'Quarter III', href: '/docs/Quarter3' },
     ],
   },
   {
