@@ -17,46 +17,40 @@ const navigation = [
     title: 'Introduction',
     links: [
       { title: 'Getting started', href: '/' },
-      // { title: 'Installation', href: '/docs/installation' },
+
+      { title: 'Program in a Nutshell', href: '/docs/installation' },
     ],
   },
   {
-    title: 'Core concepts',
+    title: 'Core Courses',
     links: [
-      { title: 'Understanding caching', href: '/docs/understanding-caching' },
-      {
-        title: 'Predicting user behavior',
-        href: '/docs/predicting-user-behavior',
-      },
-      { title: 'Basics of time-travel', href: '/docs/basics-of-time-travel' },
-      {
-        title: 'Introduction to string theory',
-        href: '/docs/introduction-to-string-theory',
-      },
-      { title: 'The butterfly effect', href: '/docs/the-butterfly-effect' },
+      { title: 'Quarter I', href: '/docs/understanding-caching' },
+
+      { title: 'Quarter II', href: '/docs/basics-of-time-travel' },
+
+      { title: 'Quarter III', href: '/docs/the-butterfly-effect' },
     ],
   },
   {
-    title: 'Advanced guides',
+    title: 'Specialized Tracks',
     links: [
-      { title: 'Writing plugins', href: '/docs/writing-plugins' },
-      { title: 'Neuralink integration', href: '/docs/neuralink-integration' },
-      { title: 'Temporal paradoxes', href: '/docs/temporal-paradoxes' },
-      { title: 'Testing', href: '/docs/testing' },
-      { title: 'Compile-time caching', href: '/docs/compile-time-caching' },
+      { title: 'Web 3.0 (Blockchain) and Metaverse Specialization', href: '/docs/writing-plugins' },
+      { title: 'Artificial Intelligence (AI) and Deep Learning Specialization', href: '/docs/neuralink-integration' },
+      { title: 'Cloud-Native Computing Specialization', href: '/docs/temporal-paradoxes' },
+      { title: 'Ambient Computing and IoT Specialization', href: '/docs/testing' },
+      { title: 'Genomics and Bioinformatics Specialization', href: '/docs/compile-time-caching' },
       {
-        title: 'Predictive data generation',
+        title: 'Network Programmability and Automation Specialization',
         href: '/docs/predictive-data-generation',
       },
     ],
   },
   {
-    title: 'API reference',
+    title: 'Outcome',
     links: [
-      { title: 'CacheAdvance.predict()', href: '/docs/cacheadvance-predict' },
-      { title: 'CacheAdvance.flush()', href: '/docs/cacheadvance-flush' },
-      { title: 'CacheAdvance.revert()', href: '/docs/cacheadvance-revert' },
-      { title: 'CacheAdvance.regret()', href: '/docs/cacheadvance-regret' },
+      { title: 'Outcome for Participants', href: '/docs/cacheadvance-flush' },
+      { title: 'Relevant Information Links', href: '/docs/cacheadvance-predict' },
+
     ],
   },
   // {
