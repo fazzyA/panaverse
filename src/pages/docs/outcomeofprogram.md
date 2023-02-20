@@ -9,21 +9,21 @@ The graduates of this program will own products (Full-Stack App Templates, AR an
 
 ## Top 5 'Metaverse' jobs that will rule the future of tech industry
 
-https://content.techgig.com/hiring/top-5-metaverse-jobs-that-will-rule-the-future-of-tech-industry/articleshow/87581325.cms
+[Metaverse jobs future of tech industry](https://content.techgig.com/hiring/top-5-metaverse-jobs-that-will-rule-the-future-of-tech-industry/articleshow/87581325.cms)
 
 ## Blockchain Developer Salary - Jun 2022
 
-https://web3.career/web3-salaries/blockchain-developer
+[Blockchain Salary](https://web3.career/web3-salaries/blockchain-developer)
 
 ## Web3 Salaries Soar to $750,000 for Rank-and-File Devs
 
-https://thedefiant.io/web3-soaring-salaries/
+[Web3 Salaries](https://thedefiant.io/web3-soaring-salaries/)
 
 ## The Metaverse, Blockchain Gaming, and NFTs: Navigating the Internet’s Uncharted Waters
 
-https://newzoo.com/insights/trend-reports/newzoo-report-on-metaverse-blockchain-gaming-nft-2022
+[Metaverse, Blockchain Gaming, and NFTs](https://newzoo.com/insights/trend-reports/newzoo-report-on-metaverse-blockchain-gaming-nft-2022)
 
 
 ## How To Become Metaverse Developer: Scope, Skills, and Salary
-https://www.blockchain-council.org/metaverse/how-to-become-metaverse-developer/
+[Become Metaverse Developer](https://www.blockchain-council.org/metaverse/how-to-become-metaverse-developer/)
 
